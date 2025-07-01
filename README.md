@@ -41,6 +41,12 @@ A simple Stopwatch application built using C# and Windows Forms. This applicatio
 * Click **Stop** to end.
 * Click **Reset** to clear the time.
 
+## App ScreenShots
+
+![image](https://github.com/user-attachments/assets/ade99420-3486-4190-8793-ccd920525689)
+![image](https://github.com/user-attachments/assets/6439b745-4957-4ced-9fe4-d7bab06d860b)
+
+
 ## Authors
 
 This project was developed collaboratively by:
