@@ -18,25 +18,6 @@ A simple Stopwatch application built using C# and Windows Forms. This applicatio
 * .NET Framework
 * Windows Forms
 
-## Project Structure
-
-```
-GROUP-CODING-SESSION/
-│
-├── StopwatchApp/             
-│   ├── Form1.cs              # Handles UI logic and events
-│   ├── Form1.Designer.cs     # Auto-generated UI components
-│   ├── Program.cs            # Application entry point
-│   └── Form1.resx            # Resources for the form
-│
-├── bin/                      # Compiled binaries
-├── obj/                      # Intermediate build files
-├── screenshots/              # UI screenshots
-├── README.md                 # Project documentation
-├── StopwatchApp.csproj       # C# project configuration
-└── StopwatchApp.sln          # Visual Studio solution file
-```
-
 ## Getting Started
 
 ### Prerequisites
@@ -48,29 +29,10 @@ GROUP-CODING-SESSION/
 
 1. **Clone the repository**
 
-   ```
-   git clone https://github.com/Malongmak/Group-Coding-Session.git
-   ```
+   ```git clone https://github.com/Malongmak/Group-Coding-Session.git```
 
-2. **Open the Solution**
-   Open the `StopwatchApp.sln` file using Visual Studio.
-
-3. **Restore NuGet Packages**
-   If prompted with a NuGet error:
-
-   * Open the terminal and run:
-
-     ```
-     dotnet restore
-     ```
-
-   Or use **Tools > NuGet Package Manager > Manage NuGet Packages** to restore them.
-
-4. **Build the Application**
-   Navigate to `Build > Build Solution` or press `Ctrl+Shift+B`.
-
-5. **Run the Application**
-   Start debugging with `F5` or go to `Debug > Start Debugging`.
+2. **Run the Application**
+   ```dotnet run```
 
 ## Usage
 
@@ -87,4 +49,4 @@ This project was developed collaboratively by:
 * Divine Ikirezi
 * Joshua Malongmak
 
-GitHub Repository: [https://github.com/Malongmak/Group-Coding-Session](https://github.com/Malongmak/Group-Coding-Session)
+Team Task Sheet: [https://docs.google.com/spreadsheets/d/1jbUlmmIFyRpzU6D65OB7u1HoGeI_Z4TU0mA0eIenAa4/edit?usp=sharing]
