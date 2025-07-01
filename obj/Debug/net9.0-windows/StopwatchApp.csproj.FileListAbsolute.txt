@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\bin\Debug\net9.0-windows\StopwatchApp.exe
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\bin\Debug\net9.0-windows\StopwatchApp.deps.json
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\bin\Debug\net9.0-windows\StopwatchApp.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\bin\Debug\net9.0-windows\StopwatchApp.dll
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\bin\Debug\net9.0-windows\StopwatchApp.pdb
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\StopwatchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\StopwatchApp.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\StopwatchApp.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\StopwatchApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\StopwatchApp.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\StopwatchApp.dll
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\refint\StopwatchApp.dll
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\StopwatchApp.pdb
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\StopwatchApp.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Group-Coding-Session\Group-Coding-Session\obj\Debug\net9.0-windows\ref\StopwatchApp.dll
