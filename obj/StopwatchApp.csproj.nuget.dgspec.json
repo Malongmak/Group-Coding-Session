@@ -1,37 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\OneDrive\\Desktop\\Group-Coding-Session\\Group-Coding-Session\\StopwatchApp.csproj": {}
+    "D:\\End projects\\Class activity\\Group-Coding-Session\\StopwatchApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\OneDrive\\Desktop\\Group-Coding-Session\\Group-Coding-Session\\StopwatchApp.csproj": {
+    "D:\\End projects\\Class activity\\Group-Coding-Session\\StopwatchApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\Group-Coding-Session\\Group-Coding-Session\\StopwatchApp.csproj",
+        "projectUniqueName": "D:\\End projects\\Class activity\\Group-Coding-Session\\StopwatchApp.csproj",
         "projectName": "StopwatchApp",
-        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Group-Coding-Session\\Group-Coding-Session\\StopwatchApp.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Group-Coding-Session\\Group-Coding-Session\\obj\\",
+        "projectPath": "D:\\End projects\\Class activity\\Group-Coding-Session\\StopwatchApp.csproj",
+        "packagesPath": "C:\\Users\\fyv\\.nuget\\packages\\",
+        "outputPath": "D:\\End projects\\Class activity\\Group-Coding-Session\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\fyv\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0-windows"
+          "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0-windows7.0": {
-            "targetAlias": "net9.0-windows",
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
         },
@@ -44,12 +37,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
-        "net9.0-windows7.0": {
-          "targetAlias": "net9.0-windows",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -69,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

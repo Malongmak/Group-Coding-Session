@@ -1,0 +1,15 @@
+D:\End projects\Class activity\Group-Coding-Session\bin\Debug\net8.0-windows\StopwatchApp.exe
+D:\End projects\Class activity\Group-Coding-Session\bin\Debug\net8.0-windows\StopwatchApp.deps.json
+D:\End projects\Class activity\Group-Coding-Session\bin\Debug\net8.0-windows\StopwatchApp.runtimeconfig.json
+D:\End projects\Class activity\Group-Coding-Session\bin\Debug\net8.0-windows\StopwatchApp.dll
+D:\End projects\Class activity\Group-Coding-Session\bin\Debug\net8.0-windows\StopwatchApp.pdb
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\StopwatchApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\StopwatchApp.AssemblyInfoInputs.cache
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\StopwatchApp.AssemblyInfo.cs
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\StopwatchApp.csproj.CoreCompileInputs.cache
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\StopwatchApp.sourcelink.json
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\StopwatchApp.dll
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\refint\StopwatchApp.dll
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\StopwatchApp.pdb
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\StopwatchApp.genruntimeconfig.cache
+D:\End projects\Class activity\Group-Coding-Session\obj\Debug\net8.0-windows\ref\StopwatchApp.dll
