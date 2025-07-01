@@ -84,7 +84,7 @@ GROUP-CODING-SESSION/
 This project was developed collaboratively by:
 
 * Daniel Iryivuze
-* Divine Uwase
+* Divine Ikirezi
 * Joshua Malongmak
 
 GitHub Repository: [https://github.com/Malongmak/Group-Coding-Session](https://github.com/Malongmak/Group-Coding-Session)
